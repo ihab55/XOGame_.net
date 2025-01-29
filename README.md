@@ -16,3 +16,9 @@ Simple UI with C# Console or Windows Forms
 Game logic validation (win/draw conditions)
 
 Reset and restart functionality
+
+<h3>Contact</h3>
+
+Email: ehab.ayman7420@gmail.com
+
+GitHub: ihab55
